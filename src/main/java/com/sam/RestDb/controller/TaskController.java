@@ -4,6 +4,8 @@ import java.net.URI;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.hateoas.EntityModel;
+import org.springframework.hateoas.server.mvc.WebMvcLinkBuilder;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -37,24 +39,24 @@ public class TaskController {
 	@PostMapping("/createTask")
 	public ResponseEntity<Object> createTask(@RequestBody Task task) {
 		Task taskObj = taskService.createTask(task);
-		URI place = ServletUriComponentsBuilder.fromCurrentRequest().replacePath("/tasks/{id}").buildAndExpand(taskObj.getId())
-				.toUri();
+		URI place = ServletUriComponentsBuilder.fromCurrentRequest().replacePath("/tasks/{id}")
+				.buildAndExpand(taskObj.getId()).toUri();
 		return ResponseEntity.created(place).build();
 	}
 
+//	@GetMapping("/{id}")
+//	public Task getTaskById(@PathVariable int id) {
+//		return taskService.getTaskById(id);
+//	}
+//	
 	@GetMapping("/{id}")
-	public Task getTaskById(@PathVariable int id) {
-		return taskService.getTaskById(id);
+	public EntityModel<Task> getTaskById(@PathVariable int id) {
+		Task task = taskService.getTaskById(id);
+		EntityModel<Task> resource = EntityModel.of(task);
+		WebMvcLinkBuilder linkTo = WebMvcLinkBuilder.linkTo(WebMvcLinkBuilder.methodOn(this.getClass()).getAllTasks());
+		resource.add(linkTo.withRel("All tasks"));
+		return resource;
 	}
-	
-//	public EntityModel<Task> getuser(@PathVariable (value="roll") int id)  {
-//		Task task = taskService.getTaskById(id);
-//		EntityModel<User> resource=EntityModel.of(find);
-////		
-////		WebMvcLinkBuilder linkTo = linkTo(methodOn(this.getClass()).retrieveAllUsers());
-////				resource.add(linkTo.withRel("All users"));
-//		return resource;
-//	}	
 
 	@PutMapping("/{id}")
 	public Task updateTask(@PathVariable int id, @RequestBody Task taskDetails) {
