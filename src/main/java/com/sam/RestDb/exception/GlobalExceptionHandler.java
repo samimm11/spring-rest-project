@@ -26,5 +26,5 @@ public class GlobalExceptionHandler extends ResponseEntityExceptionHandler {
 		ExceptionBean exception = new ExceptionBean(new Date(), ex.getMessage(), request.getDescription(false));
 		return new ResponseEntity<Object>(exception, HttpStatus.NOT_FOUND);
 	}
-
+	
 }

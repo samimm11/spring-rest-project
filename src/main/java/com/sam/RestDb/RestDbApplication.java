@@ -10,4 +10,4 @@ public class RestDbApplication {
 		SpringApplication.run(RestDbApplication.class, args);
 	}
 
-}
+} 

@@ -1,0 +1,165 @@
+12:12:22.972 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:12:22.973 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:12:22.974 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:12:24.615 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.7 seconds (process running for 145.682)
+12:12:45.878 [http-nio-8080-exec-1] DEBUG com.sam.RestDb.service.PostService - Getting all Posts
+12:12:51.946 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:12:51.947 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:12:51.947 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:12:53.406 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.527 seconds (process running for 174.472)
+12:13:00.279 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:13:00.280 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:13:00.281 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:13:01.891 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.731 seconds (process running for 182.959)
+12:26:54.156 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:26:54.157 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:26:54.157 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:26:55.463 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.369 seconds (process running for 1016.531)
+12:26:59.236 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:26:59.236 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:26:59.236 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:27:00.730 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.552 seconds (process running for 1021.798)
+12:27:14.679 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:27:14.679 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:27:14.680 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:27:16.144 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.529 seconds (process running for 1037.211)
+12:27:20.887 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:27:20.893 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:27:20.893 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:27:22.527 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.699 seconds (process running for 1043.594)
+12:34:35.575 [http-nio-8080-exec-1] DEBUG com.sam.RestDb.service.PostService - Getting all Posts
+12:34:43.789 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:34:43.789 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:34:43.790 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:34:44.999 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.271 seconds (process running for 1486.066)
+12:35:24.724 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:35:24.725 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:35:24.725 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:35:26.206 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.548 seconds (process running for 1527.274)
+12:35:36.637 [http-nio-8080-exec-3] DEBUG com.sam.RestDb.service.UserService - Getting all users 
+12:35:45.292 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:35:45.293 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:35:45.293 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:35:47.941 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 2.718 seconds (process running for 1549.008)
+12:35:49.788 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:35:49.789 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:35:49.789 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:35:51.439 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.789 seconds (process running for 1552.506)
+12:36:28.928 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:36:28.929 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:36:28.929 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:36:30.559 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.694 seconds (process running for 1591.626)
+12:36:31.823 [http-nio-8080-exec-1] DEBUG com.sam.RestDb.service.UserService - Getting all users 
+12:36:43.612 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:36:43.613 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:36:43.613 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:36:45.421 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.874 seconds (process running for 1606.488)
+12:36:47.074 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:36:47.075 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:36:47.075 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:36:48.277 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.256 seconds (process running for 1609.345)
+12:37:04.346 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:37:04.347 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:37:04.348 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:37:05.546 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.248 seconds (process running for 1626.612)
+12:37:08.312 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:37:08.313 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:37:08.313 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:37:09.957 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.695 seconds (process running for 1631.025)
+12:37:13.796 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:37:13.796 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:37:13.797 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:37:15.037 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.295 seconds (process running for 1636.105)
+12:37:34.189 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:37:34.190 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:37:34.190 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:37:35.425 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.296 seconds (process running for 1656.492)
+12:37:54.511 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:37:54.512 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:37:54.512 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:37:55.939 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.489 seconds (process running for 1677.005)
+12:38:02.899 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:38:02.900 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:38:02.900 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:38:04.494 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.676 seconds (process running for 1685.562)
+12:38:06.689 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:38:06.690 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:38:06.690 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:38:08.951 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 2.313 seconds (process running for 1690.018)
+12:38:10.751 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:38:10.752 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:38:10.752 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:38:12.513 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.82 seconds (process running for 1693.58)
+12:38:14.194 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:38:14.195 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:38:14.195 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:38:16.121 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.983 seconds (process running for 1697.189)
+12:38:17.887 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:38:17.888 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:38:17.888 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:38:19.181 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.352 seconds (process running for 1700.248)
+12:38:20.987 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:38:20.988 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:38:20.988 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:38:23.049 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 2.113 seconds (process running for 1704.116)
+12:38:25.287 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:38:25.288 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:38:25.288 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:38:27.204 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 2.01 seconds (process running for 1708.271)
+12:38:29.460 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:38:29.461 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:38:29.461 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:38:30.464 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.063 seconds (process running for 1711.531)
+12:38:33.396 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:38:33.397 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:38:33.397 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:38:35.109 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.757 seconds (process running for 1716.176)
+12:38:36.971 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:38:36.973 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:38:36.973 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:38:38.218 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.306 seconds (process running for 1719.286)
+12:39:01.740 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:39:01.740 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:39:01.740 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:39:03.282 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.607 seconds (process running for 1744.355)
+12:39:05.171 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:39:05.172 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:39:05.173 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:39:06.564 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.445 seconds (process running for 1747.631)
+12:39:07.781 [http-nio-8080-exec-1] DEBUG com.sam.RestDb.service.UserService - Getting all users 
+12:39:27.874 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:39:27.875 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:39:27.876 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:39:28.906 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.084 seconds (process running for 1769.974)
+12:39:33.796 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:39:33.796 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:39:33.796 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:39:34.857 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.111 seconds (process running for 1775.924)
+12:39:36.765 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:39:36.766 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:39:36.766 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:39:37.699 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 0.987 seconds (process running for 1778.767)
+12:39:57.026 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:39:57.027 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:39:57.027 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:39:58.274 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.297 seconds (process running for 1799.341)
+12:40:00.215 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:40:00.215 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:40:00.215 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:40:01.344 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.205 seconds (process running for 1802.412)
+12:40:03.658 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:40:03.659 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:40:03.659 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:40:04.602 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 0.988 seconds (process running for 1805.668)
+12:40:27.010 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:40:27.010 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:40:27.010 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:40:28.008 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.05 seconds (process running for 1829.075)
+12:40:56.505 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:40:56.506 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:40:56.506 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:40:57.612 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.156 seconds (process running for 1858.678)
+12:41:01.580 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Starting RestDbApplication using Java 17.0.10 with PID 10744 (E:\Spring\RestDb\RestDb\target\classes started by SAM in E:\Spring\RestDb\RestDb)
+12:41:01.581 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Running with Spring Boot v3.1.10, Spring v6.0.18
+12:41:01.581 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - The following 1 profile is active: "dev"
+12:41:02.647 [restartedMain] DEBUG com.sam.RestDb.RestDbApplication - Started RestDbApplication in 1.118 seconds (process running for 1863.715)

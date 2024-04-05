@@ -2,14 +2,16 @@ package com.sam.RestDb.bean;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.validation.constraints.NotBlank;
 
 @Entity
 public class Task {
 	@Id
-	@GeneratedValue
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Integer id;
-
+	@NotBlank(message = "Name is mandatory")
 	private String name;
 
 	private boolean completed;

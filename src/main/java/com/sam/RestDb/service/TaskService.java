@@ -34,8 +34,9 @@ public class TaskService {
 			task.setName(taskDetails.getName());
 			task.setCompleted(taskDetails.isCompleted());
 			return taskRepository.save(task);
+			
 		} else {
-			throw new NoSuchElementException("id " + id + " not found");
+			throw new NoSuchElementException("id " + id + " not found");			
 		}
 
 	}

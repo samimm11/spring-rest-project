@@ -20,6 +20,8 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import com.sam.RestDb.bean.Task;
 import com.sam.RestDb.service.TaskService;
 
+import jakarta.validation.Valid;
+
 @RestController
 @RequestMapping("/tasks")
 public class TaskController {
@@ -37,7 +39,7 @@ public class TaskController {
 //	}
 
 	@PostMapping("/createTask")
-	public ResponseEntity<Object> createTask(@RequestBody Task task) {
+	public ResponseEntity<Object> createTask(@Valid @RequestBody Task task) {
 		Task taskObj = taskService.createTask(task);
 		URI place = ServletUriComponentsBuilder.fromCurrentRequest().replacePath("/tasks/{id}")
 				.buildAndExpand(taskObj.getId()).toUri();
