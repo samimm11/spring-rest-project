@@ -4,6 +4,7 @@ import java.net.URI;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.core.SpringVersion;
 import org.springframework.hateoas.EntityModel;
 import org.springframework.hateoas.server.mvc.WebMvcLinkBuilder;
 import org.springframework.http.ResponseEntity;
@@ -30,6 +31,7 @@ public class TaskController {
 
 	@GetMapping("/getTasks")
 	public List<Task> getAllTasks() {
+		System.out.println("Spring version " + SpringVersion.getVersion());
 		return taskService.getAllTasks();
 	}
 
